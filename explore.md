@@ -13,7 +13,7 @@ The CSV contains four fields:
 - `pony` - pony/character associated with the dialogue
 - `dialog` - dialogue text
 
-The dataset contains 196 unique episode titles.
+The dataset contains 197 unique episode titles.
 
 There are 842 unique values in the `pony` field.
 
@@ -46,3 +46,4 @@ grep -c 'Rainbow Dash' clean_dialog.csv
 grep -c 'Fluttershy' clean_dialog.csv
 
 
+```
